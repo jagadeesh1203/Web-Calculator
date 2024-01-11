@@ -1,4 +1,4 @@
-# Dynamic Calculator
+# Web Calculator
 A simple and dynamic calculator web application built with HTML, CSS, and JavaScript.
 
 ## Overview
